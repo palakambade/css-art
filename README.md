@@ -1,3 +1,6 @@
+# Note
+This is simply the initial creation, please visit https://github.com/zero-to-mastery/css-art for the most up-to-date repo and make your pull requests there!
+
 # CSS ART
 Welcome to CSS Art, a fun, beginner-friendly challenge for Hacktoberfest!
 
